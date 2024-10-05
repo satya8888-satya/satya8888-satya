@@ -11,7 +11,7 @@
 ###
 
 <h3 align="left">✨ Creating bugs since ...2022<br>📚 I'm currently learning ...C++,Cloud<br>🎯 Goals: ...To Land a job at the good  organization<br>🎲 Fun fact: ... Able Code at both C++ and Java As Well</h3>
-<h4>Eager to learn GO And other new age technolgies</h4>
+<h4>Eager to learn GO And other new age technolgies</h4><h5>Learning Android Developmebnt</h5>
 ###
 
 <h2 align="left">I code with</h2>
@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+
 </div>
 
 ###
