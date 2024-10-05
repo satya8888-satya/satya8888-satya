@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is ...SatyaNarayana  and I'm a  Java FullStack Dev..., from ....Hyderabad</h3>
+<h3 align="left">My name is ...SatyaNarayana  and I'm a  Java FullStack Dev...,And Also Android Developer  from ....Hyderabad</h3>
 
 ###
 
