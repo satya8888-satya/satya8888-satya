@@ -11,7 +11,7 @@
 ###
 
 <h3 align="left">✨ Creating bugs since ...2022<br>📚 I'm currently learning ...C++,Cloud<br>🎯 Goals: ...To Land a job at the good  organization<br>🎲 Fun fact: ... Able Code at both C++ and Java As Well</h3>
-<h4>Eager to learn GO And other new age technolgies</h4><h5>Learning Android Developmebnt</h5>
+<h4>Eager to learn GO And other new age technolgies</h4><h3>Learning Android Development With Kotlin&Flutter</h3>
 ###
 
 <h2 align="left">I code with</h2>
